@@ -4,6 +4,7 @@ A tool to automatedly send Spam / Promotion messages to Telegram groups. Its bei
 How does it work?
 1. Configure all the groups you want to message
 2. Write the promotion message to send
-3. Start the bot and enjoy the results
+3. Set extra parameters to optimize the campagin
+4. Start the bot and enjoy the results
 
 In order to see it in action please message me in Telegram: @vobruno
